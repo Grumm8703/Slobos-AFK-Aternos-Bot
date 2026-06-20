@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GrummLifeStealSMP.aternos.me",
-    "port": 24074,
+    "ip": treefish.aternos.host",
+    "port": 16076,
     "version": "1.21.11",
     "try-creative": false
   },
