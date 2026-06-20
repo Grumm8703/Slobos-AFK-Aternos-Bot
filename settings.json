@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": treefish.aternos.host",
+    "ip": "treefish.aternos.host",
     "port": 16076,
     "version": "1.21.11",
     "try-creative": false
